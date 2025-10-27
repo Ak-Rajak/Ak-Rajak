@@ -5,7 +5,7 @@
 <h2 align="center"><b>Full Stack Developer & AI Explorer , Fresher as CSE Undergard 💯</b></h2> 
 
 <!-- <h3 align="center"> 🚀 Passionate Developer  | Frontend & Backend Enthusiast | Problem Solver</h3> -->
- <p align="center"><b>Ex - Intern At IIT KGP | Intern At Infotact Solutions | Software Developer | Alumini @Coding Ninjas | Python Stack Developer | MERN Stack Developer|  5 ⭐ Coder At HackerRank  | Code Crusader At Coding Ninjas 🚀 |  Institute 22🥇 Rank GFG | Open Source Learner | 
+ <p align="center"><b>Ex - Intern At IIT KGP | Intern At Infotact Solutions | Software Developer | Alumini @Coding Ninjas | Python Stack Developer | MERN Stack Developer|  5 ⭐ Coder At HackerRank  | Code Crusader ⭐ At Coding Ninjas 🚀 |  Institute 22🥇 Rank GFG | Open Source Learner | 
 Tech Explorer  | Turning Ideas into Code
 </b></p>
 
