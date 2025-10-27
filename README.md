@@ -1,3 +1,5 @@
+<img src="Background.jpeg">
+
 <h1 align="center">Hi 👋, I'm Atul Kumar Rajak.</h1>
 <h3 align="center"> 🚀 Passionate Developer | Frontend & Backend Enthusiast | Problem Solver</h3>
 <h4>
