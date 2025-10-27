@@ -6,18 +6,33 @@
 
 <!-- <h3 align="center"> 🚀 Passionate Developer  | Frontend & Backend Enthusiast | Problem Solver</h3> -->
  <p align="center"><b>Ex - Intern At IIT KGP | Intern At Infotact Solutions | Software Developer | Alumini @Coding Ninjas | Python Stack Developer | MERN Stack Developer|  5 ⭐ Coder At HackerRank  | Code Crusader ⭐ At Coding Ninjas 🚀 |  Institute 22🥇 Rank GFG | Open Source Learner | 
-Tech Explorer  | Turning Ideas into Code
+Tech Explorer  |💡 Turning Ideas into Code
 </b></p>
 
+<p align="center">
+    <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
+ </a> 
+ <a href="https://www.linkedin.com/in/prince-singh-314a65187/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
+ </a>
+ <a href="https://github.com/PrinceSinghhub" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
+ </a>
+ <a href="https://twitter.com/NowPrinceSingh" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/princesinghcse" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
+ </a> 
+    <a href="https://topmate.io/itsprincesingh" target="blank">
+  <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
+ </a>
+   <a href="mailto:princesingh.cse.2020@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
+ </a> 
+</p>
 
-<h4>
-Building innovative solutions with React, Node.js, and modern databases.  
-Skilled in API development, database management, and tackling complex problems with efficiency.  
-Always exploring the latest tech trends to create impactful applications. 💡
-</h4>
-<img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p>
 
 
 - 🔭 I’m currently working on **NextJs**
