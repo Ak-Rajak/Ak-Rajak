@@ -35,9 +35,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 
 <img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p>
-
+<img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="40px"></img>
 
 - 🔭 I’m currently working on **NextJs**
 
@@ -67,3 +65,6 @@ Tech Explorer  |💡 Turning Ideas into Code
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak-rajak&show_icons=true&locale=en" alt="ak-rajak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-rajak&" alt="ak-rajak" /></p>
+
+<!-- Profile Views  -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p>
