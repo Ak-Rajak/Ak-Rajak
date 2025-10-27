@@ -36,9 +36,23 @@ Tech Explorer  |💡 Turning Ideas into Code
 ---
 ## About Me
 <!-- <img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif"> -->
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="360px" height="360px"></img></a>
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="360" height="360"></img></a>
 
-- 🔭 I’m currently working on **NextJs**
+- 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
+- 💻 Passionate **Full Stack Developer** with hands-on expertise in **MERN** and **Python** stacks — building scalable, high-performance web solutions with clean architecture and optimized code.  
+- 🧠 **Problem-Solving Enthusiast** — constantly exploring algorithms and data structures to craft efficient, production-ready solutions.  
+- 🚀 Skilled in designing **end-to-end applications**, integrating RESTful APIs, managing databases, and deploying systems with modern DevOps workflows.  
+- 🏆 **Achievements & Recognitions**  
+  • 🥇 _Winner_ — IEEE Poster Presentation Competition (Bhubaneswar Section) among 30+ teams for innovation and technical clarity.  
+  • 🥈 _2nd Place_ — Technical Coding Quiz, _Gajajyoti 2025_ (Annual Tech Fest) for exceptional problem-solving and algorithmic thinking.  
+  • ⭐ _5-Star Coder_ on HackerRank, demonstrating consistent coding excellence and algorithmic depth.  
+- 🌱 Always exploring new technologies — from backend optimizations to frontend performance tuning — driven by curiosity and a love for learning.  
+- 🧩 **Team Player & Innovator** — thrive in collaborative environments and love turning ideas into impactful digital experiences.  
+- 📚 Currently expanding my portfolio with projects that merge **creativity**, **logic**, and **real-world scalability**.  
+- ⚡ **Beyond Tech** — I enjoy networking, mentoring peers, and diving into challenges that push me beyond my comfort zone.  
+
+
+<!-- - 🔭 I’m currently working on **NextJs**
 
 - 🌱 I’m currently learning **NextJs and NodeJs**
 
@@ -48,7 +62,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 - 📫 How to reach me **atkrr04@gmail.com.**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
