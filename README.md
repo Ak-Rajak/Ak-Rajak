@@ -1,4 +1,4 @@
-<img src="Background.jpeg">
+<img src="Background.jpeg" style="width:100%; height:280px; object-fit:cover;" />
 
 <h1 align="center">Hi 👋, I'm Atul Kumar Rajak.</h1>
 <h3 align="center"> 🚀 Passionate Developer | Frontend & Backend Enthusiast | Problem Solver</h3>
