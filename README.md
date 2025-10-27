@@ -45,7 +45,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 - 🏆 **Achievements:** 🥇 *IEEE Poster Presentation Winner* (Bhubaneswar Section, among 30+ teams) • 🥈 *2nd in Technical Coding Quiz – Gajajyoti 2025* • ⭐ *5-Star Coder on HackerRank*.  
 - 🌱 Continuously learning new technologies — from backend optimizations to frontend performance.  
 - 🧩 Collaborative **Team Player & Innovator**, passionate about turning ideas into impactful products.  
-- ⚡ Outside of tech, I enjoy mentoring peers, networking, and taking on creative challenges.  
+- ⚡ Outside of tech, I enjoy adventures trips , vlogs , and taking on creative challenges.  
 
 
 <!-- - 🔭 I’m currently working on **NextJs**
