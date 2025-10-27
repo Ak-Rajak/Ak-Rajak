@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Atul Kumar Rajak (Tech Sorcerer’s Apprentice)</b></h1>
 <!-- <h1 align="center">Hi 👋, I'm Atul Kumar Rajak.</h1> -->
-<h3 align="center"> 🚀 Passionate Developer | Frontend & Backend Enthusiast | Problem Solver</h3>
+<h2 align="center"><b>Passionate Developer  | Frontend & Backend Enthusiast | Problem Solver 💯</b></h2> 
+
+<!-- <h3 align="center"> 🚀 Passionate Developer  | Frontend & Backend Enthusiast | Problem Solver</h3> -->
 <h4>
 Building innovative solutions with React, Node.js, and modern databases.  
 Skilled in API development, database management, and tackling complex problems with efficiency.  
