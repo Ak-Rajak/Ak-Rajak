@@ -16,20 +16,20 @@ Tech Explorer  |💡 Turning Ideas into Code
  <a href="https://www.linkedin.com/in/atul-kumar-rajak-3061b4288/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Atul Kumar"/>
  </a>
- <a href="https://github.com/PrinceSinghhub" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
+ <a href="https://github.com/Ak-Rajak" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ak-Rajak" />
  </a>
- <a href="https://twitter.com/NowPrinceSingh" target="_blank">
+ <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://www.instagram.com/princesinghcse" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Prince Singh" />
- </a> 
+ <a href="https://www.instagram.com/at_kr_11/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Atul" />
+ <!-- </a> 
     <a href="https://topmate.io/itsprincesingh" target="blank">
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
- </a>
-   <a href="mailto:princesingh.cse.2020@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Prince Singh" />
+ </a> -->
+   <a href="mailto:atulkumarrajak11@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Atul Kumar" />
  </a> 
 </p>
 
