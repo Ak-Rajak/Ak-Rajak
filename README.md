@@ -33,6 +33,10 @@ Tech Explorer  |💡 Turning Ideas into Code
  </a> 
 </p>
 
+---
+## About Me
+
+
 
 <!-- <img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif"> -->
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="360px" height="360px"></img>
