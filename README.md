@@ -38,18 +38,14 @@ Tech Explorer  |💡 Turning Ideas into Code
 <!-- <img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif"> -->
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="360" height="360"></img></a>
 
-- 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
-- 💻 Passionate **Full Stack Developer** with hands-on expertise in **MERN** and **Python** stacks — building scalable, high-performance web solutions with clean architecture and optimized code.  
-- 🧠 **Problem-Solving Enthusiast** — constantly exploring algorithms and data structures to craft efficient, production-ready solutions.  
-- 🚀 Skilled in designing **end-to-end applications**, integrating RESTful APIs, managing databases, and deploying systems with modern DevOps workflows.  
-- 🏆 **Achievements & Recognitions**  
-  • 🥇 _Winner_ — IEEE Poster Presentation Competition (Bhubaneswar Section) among 30+ teams for innovation and technical clarity.  
-  • 🥈 _2nd Place_ — Technical Coding Quiz, _Gajajyoti 2025_ (Annual Tech Fest) for exceptional problem-solving and algorithmic thinking.  
-  • ⭐ _5-Star Coder_ on HackerRank, demonstrating consistent coding excellence and algorithmic depth.  
-- 🌱 Always exploring new technologies — from backend optimizations to frontend performance tuning — driven by curiosity and a love for learning.  
-- 🧩 **Team Player & Innovator** — thrive in collaborative environments and love turning ideas into impactful digital experiences.  
-- 📚 Currently expanding my portfolio with projects that merge **creativity**, **logic**, and **real-world scalability**.  
-- ⚡ **Beyond Tech** — I enjoy networking, mentoring peers, and diving into challenges that push me beyond my comfort zone.  
+🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
+- 💻 Passionate **Full Stack Developer** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
+- 🧠 **Problem-Solving Enthusiast** — exploring DSA and algorithms to craft efficient, production-ready code.  
+- 🚀 Experienced in **end-to-end app design**, RESTful APIs, databases, and DevOps workflows.  
+- 🏆 **Achievements:** 🥇 *IEEE Poster Presentation Winner* (Bhubaneswar Section, among 30+ teams) • 🥈 *2nd in Technical Coding Quiz – Gajajyoti 2025* • ⭐ *5-Star Coder on HackerRank*.  
+- 🌱 Continuously learning new technologies — from backend optimizations to frontend performance.  
+- 🧩 Collaborative **Team Player & Innovator**, passionate about turning ideas into impactful products.  
+- ⚡ Outside of tech, I enjoy mentoring peers, networking, and taking on creative challenges.  
 
 
 <!-- - 🔭 I’m currently working on **NextJs**
