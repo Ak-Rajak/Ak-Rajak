@@ -34,6 +34,10 @@ Tech Explorer  |💡 Turning Ideas into Code
 </p>
 
 
+<img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p>
+
 
 - 🔭 I’m currently working on **NextJs**
 
