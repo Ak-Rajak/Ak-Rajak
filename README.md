@@ -10,11 +10,11 @@ Tech Explorer  |💡 Turning Ideas into Code
 </b></p>
 
 <p align="center">
-    <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
+    <!-- <a href="https://www.youtube.com/@PrinceSinghCSE" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Prince Singh" />
- </a> 
- <a href="https://www.linkedin.com/in/prince-singh-314a65187/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Prince Singh"/>
+ </a>  -->
+ <a href="https://www.linkedin.com/in/atul-kumar-rajak-3061b4288/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Atul Kumar"/>
  </a>
  <a href="https://github.com/PrinceSinghhub" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PrinceSinghhub" />
