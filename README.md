@@ -114,14 +114,9 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 <p align="center"> 
 <img src="5StarSQLBadge.png" height="80px" width="80px">
-<img src="gfg.png" height="40px" width="40px">
-<img src="ib.png" height="40px" width="40px">
+<img src="CLanguage5Star.png" height="80px" width="80px">
+<img src="Java5Star.png" height="40px" width="40px">
 <img src="cn.png" height="40px" width="40px">
-<img src="hr.png" height="40px" width="40px">
-<img src="he.png" height="40px" width="40px"> 
-<img src="cc.png" height="40px" width="40px">
-<img src="cf.png" height="40px" width="40px">
-<img src="wk.png" height="40px" width="40px">
 
 </p> 
 
