@@ -115,8 +115,8 @@ Tech Explorer  |💡 Turning Ideas into Code
 <p align="center"> 
 <img src="5StarSQLBadge.png" height="80px" width="80px">
 <img src="CLanguage5Star.png" height="80px" width="80px">
-<img src="Java5Star.png" height="40px" width="40px">
-<img src="cn.png" height="40px" width="40px">
+<img src="Java5Star.png" height="80px" width="80px">
+<img src="Python5Star.png" height="80px" width="80px">
 
 </p> 
 
