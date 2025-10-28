@@ -175,21 +175,21 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
     <td align="center" width="90"><img src="iDRF.webp" width="55" height="55" /><br>DRF</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55" /><br>Fastapi</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>Azure</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="55" height="55" /><br>Supabase</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kotlin" width="55" height="55" /><br>Kotlin</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" /><br>Kubernetes</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" /><br>Terraform</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br>Postgresql</td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br>Firebase</td>
   </tr>
    <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
