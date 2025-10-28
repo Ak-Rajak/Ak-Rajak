@@ -148,8 +148,8 @@ Over the past year, I’ve **solved 1000+ DSA problems** across **GeeksforGeeks,
 📅 **Total Active Days:** 329+  
 🏅 **Awards:** 31+ (including 5⭐ C, Python, Java)
 
-Each problem I solve strengthens my foundation, and each day of practice brings me closer to mastering the **art of algorithmic thinking**.  
-Proud to be a consistent learner, always ready for the next challenge! 💻⚔️
+Each problem I solve strengthens my foundation, and every day of practice fuels my curiosity to explore new concepts.  
+I’m continuously learning, evolving, and looking forward to mastering even more challenging problems ahead! 💻🚀
 
 
 <h3 align="left">Languages and Tools:</h3>
