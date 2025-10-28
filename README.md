@@ -113,7 +113,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 ## ❤️ My Achievements On Coding
 
 <p align="center"> 
-<img src="lc.png" height="40px" width="40px">
+<img src="5StarSQLBadge.png" height="40px" width="40px">
 <img src="gfg.png" height="40px" width="40px">
 <img src="ib.png" height="40px" width="40px">
 <img src="cn.png" height="40px" width="40px">
