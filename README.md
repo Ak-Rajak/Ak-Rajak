@@ -204,7 +204,6 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" /><br>C</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
       <td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions" width="55" height="55" /><br>GitHub Actions</td>
-      <td align="center" width="90"><img src="https://img.shields.io/badge/selenium-darkblue" width="55" height="55" /><br>Selenium</td>
   </tr>
 </table>
 
