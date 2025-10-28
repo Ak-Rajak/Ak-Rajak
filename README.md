@@ -237,7 +237,8 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-rajak&" alt="ak-rajak" /></p> -->
 
 <br/>
-## 📈 Graph
+
+📈 Graph
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
