@@ -249,15 +249,24 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 
 <!-- [![Atul Rajak GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ak-Rajak&theme=github-compact)](https://github.com/Ak-Rajak/github-readme-activity-graph) -->
 
+## 📧 Connect with me:
+<p align="left">
 
-<!-- Connection section  -->
+<a href = "#" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+<!-- Connection section 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/atkrr.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atkrr.04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atul kumar rajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul kumar rajak" height="30" width="40" /></a>
 <a href="https://instagram.com/at_kr_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="at_kr_11" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@coder boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@coder boy" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- Profile Views  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p>
