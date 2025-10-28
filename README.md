@@ -173,7 +173,7 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" /><br>Next.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=redux" width="55" height="55" /><br>Redux</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
-    <td align="center" width="90"><img src="https://www.django-rest-framework.org/img/logo.png" width="55" height="55" /><br>DjangoRestFramework</td>
+    <td align="center" width="90"><img src="https://www.django-rest-framework.org/img/logo.png" width="55" height="55" /><br>DRF</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
