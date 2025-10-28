@@ -45,7 +45,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 - 🏆 **Achievements:** 🥇 *IEEE Poster Presentation Winner* (Bhubaneswar Section, among 30+ teams) • 🥈 *2nd in Technical Coding Quiz – Gajajyoti 2025* • ⭐ *5-Star Coder on HackerRank*.  
 - 🌱 Continuously learning new technologies — from backend optimizations to frontend performance.  
 - 🧩 Collaborative **Team Player & Innovator**, passionate about turning ideas into impactful products.  
-- ⚡ Outside of tech, I enjoy adventures trips , vlogs , and taking on creative challenges.  
+- ⚡ Outside of tech, I enjoy adventures trips , vlogging , and taking on creative challenges.  
 
 
 <!-- - 🔭 I’m currently working on **NextJs**
@@ -59,6 +59,30 @@ Tech Explorer  |💡 Turning Ideas into Code
 - 📫 How to reach me **atkrr04@gmail.com.**
 
 - ⚡ Fun fact **I think I am funny** -->
+
+
+---
+
+## 👨‍🏫 Professional Experience (From Dec 2024 - Jan 2025)
+
+### **Indian Institute of Technology, Kharagpur**
+
+#### **Research Intern — Department of Artificial Intelligence**
+
+* 🧠 Worked on the research topic — **“Document Image Analysis and Extraction Automation”**, focused on building intelligent systems for automated document understanding and dataset generation.
+
+* ⚙️ Developed an **end-to-end Python pipeline** leveraging **PyMuPDF** for:
+  * Multi-page technical PDF parsing, **figure + caption extraction**, and **bounding box association**.
+  * **Figure ID detection** to ensure precise image–caption linkage.
+  * Structured **JSON metadata generation** for downstream AI/ML research.
+
+* 🔍 Implemented **advanced regex and data-cleaning techniques** to refine extracted content and enhance dataset quality.
+
+* 💻 Built a **React-based visual verification interface** for image–caption validation, enabling seamless **human-in-the-loop** data correction and review.
+
+* 🚀 Delivered a **modular, reusable document-processing framework** supporting the department’s ongoing **AI-driven document intelligence** research.
+
+* 👨‍🏫 Mentored and guided by **Prof. Plaban Kumar Bhowmick**, *Centre of Excellence in AI, IIT Kharagpur*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
