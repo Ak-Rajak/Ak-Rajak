@@ -136,6 +136,8 @@ Over the past year, I’ve **solved 1000+ DSA problems** across **GeeksforGeeks,
 - **HackerRank:** 78+ problems, 5⭐ in Python, Java, and Problem Solving.
 - **CodeStudio & Other Platforms:** Active problem-solving in advanced algorithmic challenges.
 
+<a><img align="right" src="Ninja.gif" width="360" height="360" /></a>
+
 **DSA Progress Snapshot ⚙️**
 - **Easy:** 389 Problems  
 - **Medium:** 437 Problems  
