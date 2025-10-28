@@ -110,7 +110,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 * 👨‍🏫 Mentored and guided by **Prof. Plaban Kumar Bhowmick**, *Centre of Excellence in AI, IIT Kharagpur*.
 
-## ❤️ I'm Code on (DSA)
+## ❤️ My Achievements On Coding
 
 <p align="center"> 
 <img src="lc.png" height="40px" width="40px">
