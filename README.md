@@ -113,10 +113,10 @@ Tech Explorer  |💡 Turning Ideas into Code
 ## ❤️ My Achievements On Coding
 
 <p align="center"> 
-<img src="5StarSQLBadge.png" height="80px" width="80px">
-<img src="CLanguage5Star.png" height="80px" width="80px">
-<img src="Java5Star.png" height="80px" width="80px">
-<img src="Python5Star.png" height="80px" width="80px">
+<img src="5StarSQLBadge.png" height="180px" width="180px">
+<img src="CLanguage5Star.png" height="180px" width="180px">
+<img src="Java5Star.png" height="180px" width="180px">
+<img src="Python5Star.png" height="180px" width="180px">
 
 </p> 
 
