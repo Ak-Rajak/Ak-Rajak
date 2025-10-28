@@ -117,9 +117,37 @@ Tech Explorer  |💡 Turning Ideas into Code
 <img src="CLanguage5Star.png" height="180px" width="180px">
 <img src="Java5Star.png" height="180px" width="180px">
 <img src="Python5Star.png" height="180px" width="180px">
-
 </p> 
 
+---
+
+## 🏆 DSA Battleground
+
+<a><img align="right" src="DSAPractiseImage.png" width="350"/></a>
+
+🚀 Excited to share my journey of **Data Structures & Algorithms mastery** — built through **daily consistency, curiosity, and hands-on problem-solving** across top coding platforms.
+
+Over the past year, I’ve **solved 1000+ DSA problems** across **GeeksforGeeks, HackerRank, and CodeStudio**, maintaining a **329-day active streak** and earning **31 coding awards** including **5⭐ badges in C, Python, and Java** 🥇.
+
+💡 My focus areas span across **Arrays, Algorithms, Trees, HashMaps, and Dynamic Programming**, with deep exploration into **real-world coding patterns and system-level problem analysis**.
+
+**Platform Highlights 🧩**
+- **GeeksforGeeks:** 95+ problems solved in core DSA and fundamentals.
+- **HackerRank:** 78+ problems, 5⭐ in Python, Java, and Problem Solving.
+- **CodeStudio & Other Platforms:** Active problem-solving in advanced algorithmic challenges.
+
+**DSA Progress Snapshot ⚙️**
+- **Easy:** 389 Problems  
+- **Medium:** 437 Problems  
+- **Hard:** 71 Problems  
+- **Total:** 897+ DSA Problems Solved 💪  
+
+🔥 **Total Questions Solved:** 1070+  
+📅 **Total Active Days:** 329+  
+🏅 **Awards:** 31+ (including 5⭐ C, Python, Java)
+
+Each problem I solve strengthens my foundation, and each day of practice brings me closer to mastering the **art of algorithmic thinking**.  
+Proud to be a consistent learner, always ready for the next challenge! 💻⚔️
 
 
 <h3 align="left">Languages and Tools:</h3>
