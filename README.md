@@ -269,4 +269,14 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 </p> -->
 
 <!-- Profile Views  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p>
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Ak-Rajak">
+</a>
+<a href="https://github.com/Ak-Rajak?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ak-Rajak?label=Followers&style=social" alt="GitHub Badge">
+</a>
+
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak-rajak&label=Profile%20views&color=0e75b6&style=flat" alt="ak-rajak" /> </p> -->
