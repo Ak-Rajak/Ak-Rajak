@@ -65,6 +65,32 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 ## 👨‍🏫 Professional Experience (From Dec 2024 - Jan 2025)
 
+### **Infotect Solutions - Bengaluru, India**
+
+#### **Python Developer Intern**
+
+* 🤖 Contributed to two **enterprise-level AI projects** — *AI Collaboration Platform* and *Gamified Server Shepherd* — under the **Industry-Level Python Development Program** focused on **real-time systems, AI/CV integration, and interactive dashboards**.
+
+* ⚙️ **Developed scalable FastAPI backends** integrated with **WebSockets** for real-time synchronization, communication, and collaborative user interaction across distributed clients.
+
+* 🧠 Worked on the **AI-Assisted Collaboration Platform**, implementing:
+  * A **real-time web-based canvas engine** for multi-user drawing and brainstorming.
+  * **AI-assisted diagram correction** using multimodal models (Gemini / GPT-4o) to auto-align, clean, and structure messy user sketches.
+  * End-to-end **RAG-like pipeline integration** for interpreting and rebuilding visual diagrams from AI responses.
+
+* 🎮 Engineered **Gamified “Server Shepherd” Dashboard**, a novel log monitoring tool that converts server health visualization into an engaging, interactive simulation.
+  * Built a **Python log-tail agent** to stream data from NGINX servers in real-time.
+  * Designed **log-parsing and broadcasting layers** via FastAPI and WebSockets.
+  * Created **interactive UI elements** using React + p5.js for real-time visual feedback and error acknowledgment events.
+
+* 🧩 Collaborated on a **real-time AI/CV pipeline** for **Urban Micro-Climate Mapping**, applying **OpenCV** for environment inference (sun, shadow, wetness) and **Leaflet.js** for live geospatial dashboards.
+
+* 🚀 Delivered production-ready, containerized solutions using **Docker**, **MongoDB/PostgreSQL**, and **Redis**, ensuring fault-tolerant and scalable architectures for real-time AI applications.
+
+* 📘 Demonstrated strong cross-functional collaboration, full-stack design thinking, and deployment readiness for **AI-driven real-time applications**.
+
+---
+
 ### **Indian Institute of Technology, Kharagpur**
 
 #### **Research Intern — Department of Artificial Intelligence**
