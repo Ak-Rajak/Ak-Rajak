@@ -63,11 +63,11 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 ---
 
-## 👨‍🏫 Professional Experience (From Dec 2024 - Jan 2025)
+## 👨‍🏫 Professional Experience 
 
 ### **Infotect Solutions - Bengaluru, India**
 
-#### **Python Developer Intern**
+#### **Python Developer Intern (From Aug 2025 - Oct 2025)**
 
 * 🤖 Contributed to two **enterprise-level AI projects** — *AI Collaboration Platform* and *Gamified Server Shepherd* — under the **Industry-Level Python Development Program** focused on **real-time systems, AI/CV integration, and interactive dashboards**.
 
@@ -93,7 +93,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 
 ### **Indian Institute of Technology, Kharagpur**
 
-#### **Research Intern — Department of Artificial Intelligence**
+#### **Research Intern — Department of Artificial Intelligence (From Dec 2024 - Jan 2025)**
 
 * 🧠 Worked on the research topic — **“Document Image Analysis and Extraction Automation”**, focused on building intelligent systems for automated document understanding and dataset generation.
 
