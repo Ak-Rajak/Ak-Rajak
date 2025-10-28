@@ -212,10 +212,9 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 
 ---
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img alt="Atul Rajak's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-Rajak&theme=react&hide_border=true&background=0D1117" />
-</a>
-
+</a> -->
 
 ## 📊 My GitHub Stats
 
@@ -231,12 +230,12 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak-rajak&show_icons=true&locale=en&layout=compact" alt="ak-rajak" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak-rajak&show_icons=true&locale=en" alt="ak-rajak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-rajak&" alt="ak-rajak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak-rajak&" alt="ak-rajak" /></p> -->
 
 <!-- Connection section  -->
 <h3 align="left">Connect with me:</h3>
