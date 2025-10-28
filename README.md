@@ -243,6 +243,12 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
+## ⌛ GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Ak-Rajak&theme=radical&no-frame=false&no-bg=true&margin-w=20&margin-h=20)
+
+[![Atul Rajak GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ak-Rajak&theme=github-compact)](https://github.com/Ak-Rajak/github-readme-activity-graph)
+
 
 <!-- Connection section  -->
 <h3 align="left">Connect with me:</h3>
