@@ -36,7 +36,7 @@ Tech Explorer  |💡 Turning Ideas into Code
 ---
 ## About Me
 <!-- <img align="right" alt="Coding" width="500" height="350" src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif"> -->
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="360" height="360"></img></a>
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="360" height="360"></img></a>
 
 🔥 **About Me (Skills)** — [**Why I Belong in Your Team**](your-portfolio-link-here)  
 - 💻 Passionate **Full Stack Developer** skilled in **MERN** and **Python** stacks — building scalable, high-performance solutions.  
@@ -220,10 +220,10 @@ I’m continuously learning, evolving, and looking forward to mastering even mor
 <br/>
 
 <a href="https://github.com/Ak-Rajak/github-readme-stats">
-  <img alt="Atul Rajak's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ak-Rajak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Atul Rajak's GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ak-Rajak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/Ak-Rajak/github-readme-stats">
-  <img alt="Atul Rajak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-Rajak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Atul Rajak's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ak-Rajak&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
 
 <br/>
